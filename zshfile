@@ -1,0 +1,8 @@
+alias cl="clear"
+alias install="sudo dnf -y install"
+alias edit_config="nano ~/.config/i3/config"
+alias start="mednafen"
+PS1=">>"
+alias music="cmus"
+alias update="sudo dnf -y update"
+alias irc="weechat"
